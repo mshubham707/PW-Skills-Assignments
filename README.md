@@ -1,2 +1,2 @@
-# Python-Basics
-Assignment of python basics dated 18 March 2025 PW Skills
+# Python-Assignments
+Python assigents submitted as part of PW Data Analytics course
