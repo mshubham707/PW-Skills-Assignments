@@ -1,2 +1,2 @@
 # Python-Assignments
-Python assigents submitted as part of PW Data Analytics course
+Python assignments submitted as part of PW Data Analytics course
